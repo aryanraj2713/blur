@@ -6,11 +6,11 @@ from io import BytesIO
 
 
 from flask_cors import CORS
-CORS(app) 
+# CORS(app) 
 
 
 app = Flask(__name__)
-
+CORS(app) 
 def apply_blur(image, face_coordinates):
     for (x, y, w, h) in face_coordinates:
         roi = image[y:y+h, x:x+w]
