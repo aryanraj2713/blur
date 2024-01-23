@@ -1,28 +1,23 @@
-archspec @ file:///croot/archspec_1697725767277/work
-boltons @ file:///Users/cbousseau/work/recipes/ci_py311/boltons_1677965141748/work
-Brotli @ file:///Users/cbousseau/work/recipes/ci_py311/brotli-split_1677936346777/work
-certifi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_3bweqb8byn/croot/certifi_1690232244779/work/certifi
-cffi @ file:///Users/cbousseau/work/recipes/ci_py311/cffi_1677903595907/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-conda @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_f7x3zuzbl2/croot/conda_1699303137115/work
-conda-content-trust @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_5324skqvu9/croot/conda-content-trust_1693490622873/work
-conda-libmamba-solver @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_c2fmjn55mo/croot/conda-libmamba-solver_1700150913462/work/src
-conda-package-handling @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_fc4cx8vjhj/croot/conda-package-handling_1690999937094/work
-conda_package_streaming @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_aecpaup22q/croot/conda-package-streaming_1690987978274/work
-cryptography @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_905z2r5rpq/croot/cryptography_1694211573866/work
-idna @ file:///Users/cbousseau/work/recipes/ci_py311/idna_1677906072337/work
-jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
-jsonpointer==2.1
-libmambapy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_59l2npsw_8/croot/mamba-split_1698782625405/work/libmambapy
-packaging @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6dm6d4jd_t/croot/packaging_1693575176524/work
-pluggy @ file:///Users/cbousseau/work/recipes/ci_py311/pluggy_1677906980825/work
-pycosat @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_3eg8vdcs6z/croot/pycosat_1696536519213/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pyOpenSSL @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b8whqav6qm/croot/pyopenssl_1690223428943/work
-PySocks @ file:///Users/cbousseau/work/recipes/ci_py311/pysocks_1677906386870/work
-requests @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_54zi68h2nb/croot/requests_1690400233316/work
-ruamel.yaml @ file:///Users/cbousseau/work/recipes/ci_py311/ruamel.yaml_1677934845850/work
-tqdm @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ac7zic_tin/croot/tqdm_1679561870178/work
-truststore @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_42mm7e6j06/croot/truststore_1695244298716/work
-urllib3 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_068obtb882/croot/urllib3_1698257558009/work
-zstandard @ file:///Users/cbousseau/work/recipes/ci_py311_2/zstandard_1678996192313/work
+blinker==1.7.0
+click==8.1.7
+contourpy==1.2.0
+cycler==0.12.1
+Flask==3.0.1
+fonttools==4.47.2
+importlib-metadata==7.0.1
+importlib-resources==6.1.1
+itsdangerous==2.1.2
+Jinja2==3.1.3
+kiwisolver==1.4.5
+MarkupSafe==2.1.4
+matplotlib==3.8.2
+numpy==1.26.3
+opencv-python==4.9.0.80
+opencv-python-headless==4.9.0.80
+packaging==23.2
+pillow==10.2.0
+pyparsing==3.1.1
+python-dateutil==2.8.2
+six==1.16.0
+Werkzeug==3.0.1
+zipp==3.17.0
